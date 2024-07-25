@@ -1,4 +1,5 @@
 # Cybrary IT and Cybersecurity Foundations - Learn
+![cybrary-cert-it-and-cybersecurity-foundations](https://github.com/user-attachments/assets/5344db5d-571f-46a5-a238-6849ba8dafc6)
 
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/Awoyele_a)
 
