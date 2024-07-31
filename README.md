@@ -3,9 +3,6 @@
 
 [Visit My Cybrary Profile](https://app.cybrary.it/profile/Awoyele_a)
 
-## Overview
-This career path provided me with the foundational knowledge necessary for a career in cybersecurity. It covered Operating System Fundamentals, Network Fundamentals, Cybersecurity Fundamentals, and Programming and Scripting Fundamentals through 25+ modules.
-
 ## Highlights
 - **Learn, Practice, Prove**: I developed and refined my skills with Courses, Labs, Challenges, and Assessments.
 - **Get Hands-On**: I engaged with live operating systems and real security tools in Cybrary's on-demand lab environment.
